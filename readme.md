@@ -4,7 +4,7 @@
 Credit Card Input for React Native Project
 
 <p align="center">
-<img src="https://github.com/rajeshsmallarc/react-native-creditcard/example/image/Example.png?raw=true" width=200/>
+<img src="https://github.com/rajeshsmallarc/react-native-creditcard/blob/master/example/image/Example.png?raw=true" width=200/>
 </p>
 
 Code:
@@ -15,10 +15,7 @@ Code:
 
 
 # Features
-* Skeuomorphic credit-card 💳 (inspired by: [card](https://jessepollak.github.io/card/), [react-native-input-credit-card](https://www.npmjs.com/package/react-native-input-credit-card))
-* Now you could scale the Credit Card for smaller screens
-* Now you could use CardView as a Component. example use case: showing saved payment details, etc.
-* Lite version for smaller screens (or if skeuomorphic is not really your thing)
+* credit-card 💳 (inspired by: [card](https://jessepollak.github.io/card/), [react-native-input-credit-card](https://www.npmjs.com/package/react-native-input-credit-card))
 * Credit-card input validations & formatting while you're typing
 * Form is fully navigatable using keypad
 * Works on both Android and iOS
