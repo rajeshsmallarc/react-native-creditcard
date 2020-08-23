@@ -23,13 +23,13 @@ Code:
 # Usage
 
 ```bash
-npm i react-native-creditcard --save
+npm i @rajeshsmallarc/react-native-creditcard --save
 ```
 
 then add these lines in your react-native codebase
 
 ```js
-import { CreditCardInput } from "react-native-creditcard";
+import { CreditCardInput } from "@rajeshsmallarc/react-native-creditcard";
 
 <CreditCardInput onChange={this._onChange} />
 
